@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+librosa
+torch
+torchaudio
+onnxruntime
+openwakeword
+soundfile
