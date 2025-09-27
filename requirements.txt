@@ -7,3 +7,13 @@ torchaudio
 onnxruntime
 openwakeword
 soundfile
+torchinfo
+torchmetrics
+PyYAML
+pronouncing
+audiomentations
+torch_audiomentations
+speechbrain
+mutagen
+acoustics
+generate_samples
